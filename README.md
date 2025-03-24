@@ -78,5 +78,5 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo y modificarlo librem
 
 ---
 
-**Autor:** Juan Camilo Alzate Bedoya]  
+**Autor:** Juan Camilo Alzate Bedoya
 
